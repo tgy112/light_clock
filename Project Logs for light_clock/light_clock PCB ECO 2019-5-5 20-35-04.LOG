@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=5V Pin=*2-1
+Removed Pin From Net: NetName=GND Pin=*2-3
+Removed Pin From Net: NetName=VCC Pin=*2-4
+Removed Pin From Net: NetName=GND Pin=*2-5
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=5V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=VCC Pin=L1-2
+Removed Member From Class: ClassName=light_clock Member=*2
+Removed Member From Class: ClassName=light_clock Member=C7
+Removed Member From Class: ClassName=light_clock Member=C9
+Removed Member From Class: ClassName=light_clock Member=D3
+Removed Member From Class: ClassName=light_clock Member=L1
+Added Component: Designator=*(DC-DC_ADJ)
+Added Pin To Net: NetName=5V Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=VCC Pin=*-3
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Member To Class: ClassName=light_clock Member=Component * DC-DC_ADJ
+Added Room: Name=light_clock

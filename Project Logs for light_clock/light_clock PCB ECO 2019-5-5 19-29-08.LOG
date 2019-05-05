@@ -1,0 +1,5 @@
+Added Component: Designator=BAT2302-1(CR2302)
+Added Pin To Net: NetName=GND Pin=BAT2302-1-1
+Added Pin To Net: NetName=NetBAT2302-?_2 Pin=BAT2302-1-2
+Change Net Name : Old Net Name=NetBAT2302-?_2 New Net Name=NetBAT2302-1_2
+Added Member To Class: ClassName=light_clock Member=Component BAT2302-1 BAT2302
